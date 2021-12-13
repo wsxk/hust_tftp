@@ -1,0 +1,16 @@
+Tue Nov 16 23:25:01 2021  ERROR: upload 1.txt, mode: netascii, File not exists!
+Tue Nov 16 23:25:06 2021  INFO: download 3.txt as 3.txt, mode: netascii, size: 0.0 kB, consuming time: 0.02 s
+Tue Nov 16 23:46:08 2021  ERROR: upload 6.yxy, mode: octet, File not exists!
+Tue Nov 16 23:52:18 2021  ERROR: upload 6.ttt, mode: netascii, open/create error!
+Wed Nov 17 14:51:46 2021  Error: upload 1.txt, mode: netascii, File not exists!
+Wed Nov 17 15:27:26 2021  Error: upload 1.txt, mode: netascii, File not exists!
+Wed Nov 17 15:27:31 2021  Error: upload 2.txt, mode: netascii, File not exists!
+Wed Nov 17 15:48:08 2021  Error: upload 1.txt, mode: netascii, File not exists!
+Wed Nov 17 16:04:54 2021  Error: upload code.deb,mode:octet, Could not receive from server.
+Wed Nov 17 16:08:10 2021  Error: upload 3.txtr, mode: netascii, File not exists!
+Wed Nov 17 16:11:36 2021  Error: upload code.deb, mode: octet, File not exists!
+Wed Nov 17 16:21:54 2021  Error: upload 1.zip, mode: octet, File not exists!
+Wed Nov 17 16:29:51 2021  Error: upload 2.zip,mode:octet, Could not receive from server.
+Wed Nov 17 16:58:19 2021  Error: upload 1.zip,mode:octet, Could not receive from server.
+Mon Nov 22 18:42:52 2021  Error: upload tftp.cpp,mode:octet, Could not receive from server.
+Mon Nov 22 18:43:34 2021  Error: upload tftp.cpp,mode:octet, Could not receive from server.
